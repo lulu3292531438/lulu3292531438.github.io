@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lulu3292531438.github.io/zh-tw/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,7 +30,6 @@
                 />
   </url><url>
     <loc>https://lulu3292531438.github.io/zh-tw/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,83 +56,6 @@
                 href="https://lulu3292531438.github.io/zh-tw/categories/"
                 />
   </url><url>
-    <loc>https://lulu3292531438.github.io/zh-tw/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lulu3292531438.github.io/en/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lulu3292531438.github.io/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lulu3292531438.github.io/ja/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://lulu3292531438.github.io/zh-tw/p/test-chinese/"
-                />
-  </url><url>
-    <loc>https://lulu3292531438.github.io/zh-tw/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lulu3292531438.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lulu3292531438.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lulu3292531438.github.io/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://lulu3292531438.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://lulu3292531438.github.io/zh-tw/post/"
-                />
-  </url><url>
-    <loc>https://lulu3292531438.github.io/zh-tw/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lulu3292531438.github.io/en/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://lulu3292531438.github.io/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://lulu3292531438.github.io/ja/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://lulu3292531438.github.io/zh-tw/categories/test/"
-                />
-  </url><url>
-    <loc>https://lulu3292531438.github.io/zh-tw/categories/%E6%B8%AC%E8%A9%A6/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lulu3292531438.github.io/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -143,13 +64,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://lulu3292531438.github.io/tags/"
+                hreflang="ja"
+                href="https://lulu3292531438.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://lulu3292531438.github.io/ja/tags/"
+                hreflang="en-us"
+                href="https://lulu3292531438.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
