@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on ルル</title>
-        <link>http://localhost:1313/ja/tags/</link>
+        <link>https://lulu3292531438.github.io/ja/tags/</link>
         <description>Recent content in Tags on ルル</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <copyright>露露</copyright><atom:link href="http://localhost:1313/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>露露</copyright><atom:link href="https://lulu3292531438.github.io/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
